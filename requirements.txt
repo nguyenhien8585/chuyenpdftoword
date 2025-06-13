@@ -1,9 +1,4 @@
-streamlit==1.32.0
-mistralai
-PyPDF2==3.0.1
-requests==2.31.0
-pycryptodome==3.19.0
-python-docx==0.8.11
-extra-streamlit-components
-pillow==10.1.0
-google-genai
+streamlit
+PyPDF2
+Pillow
+requests
