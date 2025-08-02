@@ -1,13 +1,1 @@
-# LaTeX tools for compiling TikZ
-texlive-latex-base
-texlive-pictures
-texlive-latex-extra
-texlive-fonts-recommended
-texlive-science
-
-# PDF and image processing
-poppler-utils
-ghostscript
-
-# Optional tools
 pandoc
